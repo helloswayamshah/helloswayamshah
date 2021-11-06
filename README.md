@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ?
                      1. Reach me via E-mail - helloswayamshah@gmail.com
-                     2. Reach me via Instagram - @swayamshah33
+                     2. Reach me via Instagram - @helloswayamshah
                      3. Reach me via LinkedIn - https://www.linkedin.com/in/swayam-shah-504666196/
-                     4. Reach me via Twitter - @SwayamShah18
+                     4. Reach me via Twitter - @helloswayamshah
 
 <!---
 swayam-shah/swayam-shah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
