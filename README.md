@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swayam-shah
+- 👋 Hi, I’m @helloswayamshah
 - 👀 I’m interested in Computer Science and Cricket Sport
 - 🌱 I’m currently learning Python and Flutter
 - 💞️ I’m looking to collaborate on ...
