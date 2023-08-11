@@ -9,7 +9,7 @@
                      4. Reach me via Twitter - @helloswayamshah
 
 
-![Swayam's github stats](https://github-readme-stats.vercel.app/api?username=helloswayamshah)
+![Swayam's github stats](https://github-readme-stats.vercel.app/api?username=helloswayamshah&show_icons=true&theme=cobalt)
 
 <!---
 swayam-shah/swayam-shah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
