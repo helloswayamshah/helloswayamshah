@@ -8,7 +8,7 @@
                      3. Reach me via LinkedIn - https://www.linkedin.com/in/swayam-shah-504666196/
                      4. Reach me via Twitter - @helloswayamshah
 
-![Swayam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=helloswayamshah&custom_title=Swayam's%20github%20activity%20graph&theme=rogue)
+![Swayam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=helloswayamshah&custom_title=Swayam's%20github%20activity%20graph&theme=xcode)
 ![Swayam's github stats](https://github-readme-stats.vercel.app/api?username=helloswayamshah&show_icons=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloswayamshah&layout=donut-vertical&show_icons=true&theme=cobalt)
