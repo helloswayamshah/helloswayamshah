@@ -11,7 +11,7 @@
 
 ![Swayam's github stats](https://github-readme-stats.vercel.app/api?username=helloswayamshah&show_icons=true&theme=cobalt)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloswayamshah)](https://github.com/helloswayamshah/github-readme-stats)
+![[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloswayamshah&layout=donut-vertical)](https://github.com/helloswayamshah/github-readme-stats)
 
 <!---
 swayam-shah/swayam-shah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
