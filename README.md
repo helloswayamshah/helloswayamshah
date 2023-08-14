@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @helloswayamshah
-- 👀 I’m interested in Computer Science and Cricket Sport
-- 🌱 I’m currently learning Python and Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ?
-                     1. Reach me via E-mail - helloswayamshah@gmail.com
-                     2. Reach me via Instagram - @helloswayamshah
-                     3. Reach me via LinkedIn - https://www.linkedin.com/in/swayam-shah-504666196/
-                     4. Reach me via Twitter - @helloswayamshah
+<font size="10">Hello</font>
 
 ## General Github Info
 ![General Github Info](https://github-stats-alpha.vercel.app/api?username=helloswayamshah&cc=193549&tc=6AD7A5&ic=E582D8&bc=D9D9DA)
