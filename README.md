@@ -1,5 +1,5 @@
-<font size="3">Hello, World!
-Open for collaboration, hit me up on any of socials in about</font>
+<font size="3">Hello, World!<br>
+Open for collaboration, hit me up on any of socials in my about.</font>
 
 ## General Github Info
 ![General Github Info](https://github-stats-alpha.vercel.app/api?username=helloswayamshah&cc=193549&tc=6AD7A5&ic=E582D8&bc=D9D9DA)
