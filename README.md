@@ -21,6 +21,7 @@
 ## 🏆 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=helloswayamshah&column=8&theme=radical)](https://github-profile-trophy.vercel.app/?username=helloswayamshah&column=8)
 ##
+![](https://github-readme-stats.vercel.app/api/?username=helloswayamshah?orgs=Niyantras)
 <!---
 swayam-shah/swayam-shah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
