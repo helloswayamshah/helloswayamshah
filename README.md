@@ -1,4 +1,4 @@
-<font size="10">Hello</font>
+<font size="8">Hello</font>
 
 ## General Github Info
 ![General Github Info](https://github-stats-alpha.vercel.app/api?username=helloswayamshah&cc=193549&tc=6AD7A5&ic=E582D8&bc=D9D9DA)
