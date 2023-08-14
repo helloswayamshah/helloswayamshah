@@ -14,10 +14,11 @@
 ![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=helloswayamshah&custom_title=Swayam's%20github%20activity%20graph&theme=vue)
 ## Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=helloswayamshah&show_icons=true&theme=cobalt)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloswayamshah&layout=donut-vertical&show_icons=true&theme=cobalt)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=helloswayamshah&theme=radical)
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helloswayamshah&layout=donut-vertical&show_icons=true&theme=cobalt)
+## Github Streaks
+![GitHub Streaks](https://streak-stats.demolab.com/?user=helloswayamshah&theme=radical)
+##
 <!---
 swayam-shah/swayam-shah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
