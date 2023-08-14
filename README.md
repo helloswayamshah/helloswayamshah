@@ -18,6 +18,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helloswayamshah&layout=donut-vertical&show_icons=true&theme=cobalt)
 ## Github Streaks
 ![GitHub Streaks](https://streak-stats.demolab.com/?user=helloswayamshah&theme=radical)
+## 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=helloswayamshah&column=8&theme=radical)](https://github-profile-trophy.vercel.app/?username=helloswayamshah&column=8)
 ##
 <!---
 swayam-shah/swayam-shah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
