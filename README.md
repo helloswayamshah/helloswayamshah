@@ -9,6 +9,7 @@
                      4. Reach me via Twitter - @helloswayamshah
 
 <font size="3">General Github Info</font>
+<br>
 ![](https://github-stats-alpha.vercel.app/api?username=helloswayamshah&cc=193549&tc=6AD7A5&ic=E582D8&bc=D9D9DA)
 
 ![Swayam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=helloswayamshah&custom_title=Swayam's%20github%20activity%20graph&theme=vue)
